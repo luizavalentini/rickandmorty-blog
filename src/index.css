@@ -54,7 +54,7 @@ h1, h2, h3 {
   justify-content: center;
   align-items: center;
   width: 100vw;
-  height: 100vh;
+  height: 75vh;
  
 }
 
@@ -63,6 +63,8 @@ form {
   padding: 2rem;
   border-radius: 10px;
   box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.10);
+  width: 40vw;
+  height: 62vh;
 }
 
 form h1 {

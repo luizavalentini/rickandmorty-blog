@@ -2,8 +2,18 @@
   font-size: 1.25rem;
   line-height: 1.5rem;
   color: var(--cor-fonte-principal);
+  text-decoration: none; 
+  font-weight: bold;
 }
 
 .linkSublinhado {
-  text-decoration: underline;
+  color: gray;
+  font-weight: bold;
+}
+
+
+.link:hover {
+  text-decoration: none;
+  color: gray;
+
 }
