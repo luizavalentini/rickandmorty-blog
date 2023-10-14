@@ -26,7 +26,7 @@ function Opiniao() {
     return (
         <>
             <div className="bg-dark">
-                <h1 className="text-white pt-5 text-center">Give Your Opinion About the Series</h1>
+                <h1 className="text-white pt-5 text-center">Give Your Opinion About the Serie</h1>
                 <div className="formu mt-1">
                     <form onSubmit={handleSubmit(onSubmitForm)}>
                         <div className='field'>
